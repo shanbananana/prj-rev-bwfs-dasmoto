@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  text-align: center;
+  background-image: url("../resources/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+strong {
+  color: blue;
+}
+
+#brushesh2 {
+  background-color: mediumspringgreen;
+}
+
+#framesh2 {
+  background-color: lightcoral;
+}
+
+#painth2 {
+  background-color: skyblue;
+}
